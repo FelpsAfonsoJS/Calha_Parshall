@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Calha Parshall:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Calha_Parshall_jar</output-path>
+    <root id="archive" name="Calha Parshall.jar">
+      <element id="module-output" name="Calha Parshall" />
+    </root>
+  </artifact>
+</component>
